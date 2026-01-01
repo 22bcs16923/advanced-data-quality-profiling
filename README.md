@@ -57,12 +57,12 @@ Both methods were used to compare anomaly sensitivity and ensure robustness.
 - Cleaned data was exported for reuse and reporting
 
 ---
-## How to Run 
+## ▶️ How to Run
 1. Clone the repository
 2. Install dependencies using requirements.txt
 3. Run the Jupyter Notebook
 
-## Author 
+## 👩‍💻 Author
 Anshika Patel
 
 ---
